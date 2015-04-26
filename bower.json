@@ -1,0 +1,28 @@
+{
+  "name": "artinreality",
+  "version": "0.1.0",
+  "authors": [
+    "Chris Vogt <mail@chrisvogt.me>"
+  ],
+  "description": "The Art In Reality, LLC website placeholder.",
+  "main": "index.html",
+  "keywords": [
+    "corporate",
+    "design"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.artinreality.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizr": "~2.8.3",
+    "normalize.css": "~3.0.3"
+  }
+}
